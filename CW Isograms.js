@@ -10,7 +10,7 @@ isIsogram "Dermatoglyphics" = true
 isIsogram "moose" = false
 isIsogram "aba" = false
  */
-
+sdfgsdfg
 
 /* Solutions: */
 
